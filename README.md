@@ -211,6 +211,8 @@ More options
 As of 5:47:24 PM Sydney Time, 12 Oct 2020, Data sourced from ASX TradeMatch and CHI-X.
 </p>
 
+<img src="content_content_tradingplatform4.jpg">
+
 <h1>Tools and Technologies</h1>
 
 <p>This app will require iOS or Android developers. For iOS, developer will need to be familiar with Swift or Java. For Android developer, Kotlin, or C#. it will further require Backend development such as server technologies, databases, architecture, and software logic. For databases and servers, developers will require knowledge of programming languages such as Ruby, Python, PHP, Java, Net and SQL.
