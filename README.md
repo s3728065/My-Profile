@@ -140,3 +140,79 @@ You are a Visual learner!
 
 <p>Test results are mostly accurate in describing personality and other attributes. Mostly they reflect and reenforce what I already have known about myself but the biggest surprise has been scoring high on Judging (97%). These results however, are not going to impact my behaviour in the team because contrary to my Myers Briggs profile, I am very accommodating and respectful of others in a non-judgmental way. In my corporate career, I have been part of small and large teams put together but I have not come across instances where teams were put together or their behaviour was influenced by the personality test results, so these test results will not play any part in team formation unless there is a conflict which is proving difficult to resolve.</P>
 
+<h1>Project Idea</h1>
+
+<h1>Overview</h1>
+
+<p>This project is about developing a share trading app which allows its users access to most of the share markets in the world, both in developed and developing countries. App users will be able to select the target market, choose a company and have access to historical data which enables them to make informed decision whether to invest in securities, and purchase shares by using one single app.</p>
+
+<h1>Motivation</h1>
+
+<p>Investing in overseas markets from Australia is hugely difficult at the moment. One of the most secure and popular apps is the CommSec but it only allows access to Australian Securities Exchange (ASX) and the US markets. Other apps such as Plus500 allows access to most markets but it effectively promotes trading in Contract For Difference (CFD) and other derivatives which are hugely risky and traders don’t end up owning actual securities but only get the difference between opening and closing prices of indices and securities. One of the most popular free apps in Australia is StockLight but it only offers minimal research tools and historical data. Users of StockLight are not able to execute trades from this app. There is a need for an app which integrates research tools and data analysis as well as enabling actual transactions.</p>
+
+<p>In 2014, 36% of the adult Australian population owned investments listed on the share market which equates to 6.48 million Australians owning investments either directly or indirectly . However, Australians investing in overseas markets dwindles to merely 1.6% as compared to the US where nearly 20% of the population invests in overseas markets . Biggest contributing factor in Australians not investing overseas is the lack of easily available financial products through platforms which are easier to access.</p>
+
+<h1>Description</h1>
+
+<p>This app will require users to login by registering and creating an account. User details will be verified through their financial institution in the same way other financial service apps do. Once user logs in, dropdown menu will include options such as “select a market” which will allow user to select a market such ASX or Shanghai Stock Exchange (SSE). Once a market is selected it will show standard chart with current trade levels and status of the market. 
+SHANGHAI SE COMPOSITE INDEX 
+(Shanghai Stock Exchange:SHCOMP)
+Add to Watch List
+Set Alert
+<p>
+
+<p>Once a market is selected, submenu will include list of best and worst performers in the market, top 50 companies listed and allow users to search for a company by typing in its name or market code. Once user selects a company, app will display historical data in terms of 1-5-year highs and lows, dividends paid and net market capital. Same screen will also enable users to buy into company shares if they wish to do so. An example from the CommSec below for illustration purposes only.</p>
+
+<h1>WOODSIDE PETROLEUM LTD</h1>
+
+<p>ASX: WPLShare: Energy, Energy
+CollapseRefresh Data
+Last Price (AUD)$18.350
+Today's ChangeDown$0.030 (0.16%)
+Buy   Sell
+More options
+•	Bid / Size$18.330 / 899
+  
+•	Offer / Size$18.350 / 7,927
+
+•	Volume2,292,579
+
+•	Trades10,194
+
+•	Value$41,900,090.890
+
+•	Open$18.290
+
+•	High$18.350
+
+•	Low$18.150
+
+•	Previous Close$18.380
+
+•	Last Traded4:10:26 PM, 12 Oct 20
+
+•	52 Week High$36.285
+
+•	52 Week Low$14.930
+
+•	ASX StatusAfter Hours Adjust
+
+•	Chi-X StatusClosed
+
+•	Primary MarketAfter Hours Adjust
+As of 5:47:24 PM Sydney Time, 12 Oct 2020, Data sourced from ASX TradeMatch and CHI-X.
+</p>
+
+<h1>Tools and Technologies</h1>
+
+<p>This app will require iOS or Android developers. For iOS, developer will need to be familiar with Swift or Java. For Android developer, Kotlin, or C#. it will further require Backend development such as server technologies, databases, architecture, and software logic. For databases and servers, developers will require knowledge of programming languages such as Ruby, Python, PHP, Java, Net and SQL.
+for frontend development for the creation of web interface, developers will require HTML, CSS, and JavaScript. 
+</p>
+
+<h1>Skills Required</h1>
+
+<p>Skills required for this project include software development, database and server designs and maintenance. Key aspect will be cybersecurity because client data integrity will be paramount given the information stored on database will include financial details and bank accounts for the settlement of trading accounts.</p>
+
+<h1>Outcome</h1>
+
+<p>App will require lot of resources and will need to meet regulatory and licencing requirements in most countries but does have a huge potential. It will transform the way everyday investors buy into overseas equities markets and It will enable Australian investors to access emerging markets such as India and China which have had double digit growths for the past 20 years (not withstanding major economic downturns such Global Financial Crisis GFC or COVID pandemic).</p>
