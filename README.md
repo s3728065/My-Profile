@@ -159,6 +159,14 @@ SHANGHAI SE COMPOSITE INDEX
 (Shanghai Stock Exchange:SHCOMP)
 Add to Watch List
 Set Alert
+3,345.92
+Delayed Data
+As of 2:24am ET	  +73.84 / +2.26%
+Today’s Change	2,647
+TODAY|||52-Week Range
+3,459	+9.72%
+Year-to-Date
+
 <p>
 
 <p>Once a market is selected, submenu will include list of best and worst performers in the market, top 50 companies listed and allow users to search for a company by typing in its name or market code. Once user selects a company, app will display historical data in terms of 1-5-year highs and lows, dividends paid and net market capital. Same screen will also enable users to buy into company shares if they wish to do so. An example from the CommSec below for illustration purposes only.</p>
