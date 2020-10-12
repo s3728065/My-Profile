@@ -22,7 +22,7 @@
 
 <h1>Ideal Job</h1>
 
-<img src="Risklogic.JPG">
+<img src="Risklogic.jpg">
 
 <h1>Cyber Security Consultant - Contract Casual Position</h1>
 
