@@ -71,9 +71,44 @@ You are a passionate Cyber Security Expert who can promote a culture of cohesive
 
 <p>I will require further education and training in cybersecurity and IT consulting. My existing skills in leadership, project management and training combined with further education will prepare me for positions like these within 2-3 years. My plan is to complete my commerce degree and then take on additional subjects in IT, particularly in cloud computing and cybersecurity. I will do a second degree in IT to prepare me for a potential career in this area.</P>
 
-Cyber Security Technical Consultant Job in Sydney - SEEK
-</title>
-</head>
-<body>
+<h1>Personal Profile</h1>
+
+<h1>Myers-Briggs Test Result</h1>
+
 <img src="Amer.png">
+
+<p>Type	“The Protagonist” (ENFJ-A)
+
+Traits	Extraverted	-	88%
+Intuitive	-	62%
+Feeling	-	72%
+Judging	-	97%
+Assertive	-	89%
+
+Role	Diplomat
+Strategy	People Mastery
+</P>
+
+<h1>Learning Style Result (Education Planner)</h1>
+
+<p>Amer's scores:
+•	Auditory: 25%
+•	Visual: 50%
+•	Tactile: 25%
+You are a Visual learner!
+</p>
+
+<h1>Big Five Personality Test Result</h1>
+
+<p>Your results from the IPIP Big Five Factor Markers are in the table below. The table contains a raw score and also a percentile, what percent of other people who have taken this test that you score higher than.</p>
+
+
 <img src="Big5 .png">
+
+<p>•	Individuals who score high on Factor I one are outgoing and social. Individuals who score low tend to be shut ins.
+•	A person high in agreeableness is friendly and optimistic. Low scorers are critical and aggressive.
+•	Individuals who score high on this factor are careful and diligent. Low scorers are impulsive and disorganized.
+•	Factor V is labelled as Intellect/Imagination. This factor is also often called Openness to Experience. People who score low tend to be traditional and conventional.</P>
+
+<p>Test results are mostly accurate in describing personality and other attributes. Mostly they reflect and reenforce what I already have known about myself but the biggest surprise has been scoring high on Judging (97%). These results however, are not going to impact my behaviour in the team because contrary to my Myers Briggs profile, I am very accommodating and respectful of others in a non-judgmental way. In my corporate career, I have been part of small and large teams put together but I have not come across instances where teams were put together or their behaviour was influenced by the personality test results, so these test results will not play any part in team formation unless there is a conflict which is proving difficult to resolve.</P>
+
