@@ -38,13 +38,20 @@ You are a passionate Cyber Security Expert who can promote a culture of cohesive
 <h1>Key Responsibilities:</h1>
 
 <p>•	Delivering cyber security consulting services to existing clients
-•	Oversee and contribute to client mandates (e.g. procedure development, training and exercising) across cyber security 
+•	Oversee and contribute to client mandates (e.g. procedure development, training and exercising) across cyber security
+  
 •	Build and maintain strong client relationships across numerous industry sectors
+
 •	Contribute at industry events, seminars and conferences on behalf of RiskLogic
+
 •	Oversee project profitability and other key performance indicators
+
 •	Assist with building local strategic alliances and partnerships
+
 •	Contribute to ongoing quality management and continuous improvement activities
+
 •	Collaborate with other internal divisions to provide integrated client outcomes
+
 •	Be in a position to service clients across Australia, including the occasional interstate travel
 </p>
 
