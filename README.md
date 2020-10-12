@@ -26,8 +26,7 @@
 
 <h1>Cyber Security Consultant - Contract Casual Position</h1>
 
-<p>Risklogic4.3636 out of 54.4 overall rating (11 employee reviews)More jobs from this company
-We are seeking a Cyber Security Consultant to join our RiskLogic practice and deliver our key cyber resilience services. This role is a contract position and we are seeking Cyber Security professionals wanting to partner with us and work on a casual contract project basis. 
+<p>We are seeking a Cyber Security Consultant to join our RiskLogic practice and deliver our key cyber resilience services. This role is a contract position and we are seeking Cyber Security professionals wanting to partner with us and work on a casual contract project basis. 
 RiskLogic is a market leading risk consulting company that works with corporate, not-for-profit and government clients throughout Australia and New Zealand. 
 Our vision is to work with inspired people to build meaningful organisations that contribute to a better tomorrow. At RiskLogic we do this every day by empowering people to successfully navigate the worst of situations, events like COVID-19, cyber-attacks, terrorism, physical disasters, to name a few. With the right tools, training and experience we help people safeguard what’s important to them, thereby building a more Resilient Future.
 This is an awesome role with tremendous scope to make a real impact during an exciting phase of the business. RiskLogic offers a fast paced and results driven environment with competitive remuneration and excellent growth potential.
@@ -58,15 +57,25 @@ You are a passionate Cyber Security Expert who can promote a culture of cohesive
 <h1>Skills/Experience:</h1>
 
 <p>•	Minimum 3 years' experience in delivering relevant cyber security services, ideally within a consulting environment 
+  
 •	Minimum 3 years' experience working in IT services, disaster recovery and/or cyber environment
+
 •	Minimum 3 years' experience facilitating training sessions and exercises
+
 •	Demonstrated ability to create, build and maintain strong relationships at all levels
+
 •	Exceptional leadership, project management and organisational skills
+
 •	Ability to problem solve and influence project outcomes
+
 •	A performance driven mindset and strong commercial acumen
+
 •	The ability to adapt to diverse environments and manage multiple priorities
+
 •	Strong presentation, training and facilitation skills
+
 •	A strong drive for continuous improvement and delivery of quality outcomes
+
 •	Self-motivation, with a proven ability to effectively work remotely from managers and other team members
 </P>
 
@@ -87,21 +96,30 @@ You are a passionate Cyber Security Expert who can promote a culture of cohesive
 <p>Type	“The Protagonist” (ENFJ-A)
 
 Traits	Extraverted	-	88%
+
 Intuitive	-	62%
+
 Feeling	-	72%
+
 Judging	-	97%
+
 Assertive	-	89%
 
 Role	Diplomat
+
 Strategy	People Mastery
 </P>
 
 <h1>Learning Style Result (Education Planner)</h1>
 
 <p>Amer's scores:
+  
 •	Auditory: 25%
+
 •	Visual: 50%
+
 •	Tactile: 25%
+
 You are a Visual learner!
 </p>
 
@@ -113,8 +131,11 @@ You are a Visual learner!
 <img src="Big5 .png">
 
 <p>•	Individuals who score high on Factor I one are outgoing and social. Individuals who score low tend to be shut ins.
+  
 •	A person high in agreeableness is friendly and optimistic. Low scorers are critical and aggressive.
+
 •	Individuals who score high on this factor are careful and diligent. Low scorers are impulsive and disorganized.
+
 •	Factor V is labelled as Intellect/Imagination. This factor is also often called Openness to Experience. People who score low tend to be traditional and conventional.</P>
 
 <p>Test results are mostly accurate in describing personality and other attributes. Mostly they reflect and reenforce what I already have known about myself but the biggest surprise has been scoring high on Judging (97%). These results however, are not going to impact my behaviour in the team because contrary to my Myers Briggs profile, I am very accommodating and respectful of others in a non-judgmental way. In my corporate career, I have been part of small and large teams put together but I have not come across instances where teams were put together or their behaviour was influenced by the personality test results, so these test results will not play any part in team formation unless there is a conflict which is proving difficult to resolve.</P>
