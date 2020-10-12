@@ -6,7 +6,7 @@
   
 <p>Email: s3728065@student.rmit.edu.au</p>
 
-<img src="Profile.JPG" "width="500" height="333">
+<img src="Profile.JPG""width="500" height="333">
                                                 
 <p>I grew up in a beautiful place called Rahim yar Khan. It is a very small town located in rural Pakistan bordering Indian state of Rajasthan. It is a remote outpost from where rugged terrain extends all the way to Iran and Afghanistan in two directions. Very vibrant multicultural environment where I had a wonderful upbringing, and my childhood and early adolescence memories are filled with happy memories. Growing up in a diverse environment also meant I was fluent in five languages by the time I got to primary school. Once I got to my high school then the realisation hit that opportunities for personal and professional growth are scarce and I had to look elsewhere. I came to Australia after finishing my high school and studied business management. I have held various jobs starting from administration to middle management. For the last four years I have been managing share portfolios as a small business, working part time in management, and studying for a commerce degree with specialising in Financial Planning.</p>
 
