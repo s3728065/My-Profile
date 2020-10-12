@@ -20,7 +20,12 @@
 
 <p>I am about to complete my Commerce degree, but I do intend to take additional subjects in IT in areas of cloud computing and cybersecurity. I had no expectations from my first and only Introductory level subject in IT for this degree, but this subject has exceeded my expectations and I am hoping to have learnt basic skills about online platforms like Github, static website hosting on it and working effectively in teams.</p>
 
-Ideal Job
+<h1>Ideal Job</h1>
+
+
+
+<h1>Cyber Security Consultant - Contract Casual Position</h1>
+
 Cyber Security Technical Consultant Job in Sydney - SEEK
 </title>
 </head>
