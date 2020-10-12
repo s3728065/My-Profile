@@ -17,4 +17,4 @@ Cyber Security Technical Consultant Job in Sydney - SEEK
 </head>
 <body>
 <img src="Amer.png">
-<img src="Big5.png">
+<img src="Big5 .png">
