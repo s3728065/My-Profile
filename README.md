@@ -1,5 +1,4 @@
 # My-Profile
-<title>My Profile
 
 <p>Name: Amer Muhammad</p>
   
